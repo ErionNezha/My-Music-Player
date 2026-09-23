@@ -1,5 +1,7 @@
 # 🎵 My Music Player — fsociety group 🇦🇱
 
+Created by **Erion Nezha**
+
 Luajtës muzike në HTML/CSS/JavaScript — zgjidh këngët, kontrollo luajtjen dhe shijo meloditë.
 
 ![Pamje nga demo](screenshot.png)
